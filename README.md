@@ -1,10 +1,18 @@
 # Meu Primeiro Projeto em Python
 
-Este é meu primeiro projeto desenvolvido em Python com o objetivo de praticar lógica de programação e versionamento com Git e GitHub.
+Projeto desenvolvido para praticar lógica de programação e versionamento com Git e GitHub.
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias
 - Python
 - Git
 - GitHub
 
-## 📂 Estrutura do projeto
+## Como executar
+
+git clone https://github.com/ItaloSSDeveloper/meu-primeiro-projeto-python.git
+cd meu-primeiro-projeto-python
+python arquivo_principal.py
+
+## Autor
+Ítalo Soares  
+GitHub: https://github.com/ItaloSSDeveloper
